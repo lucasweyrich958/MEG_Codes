@@ -10,7 +10,7 @@
 #
 #
 
-#AUTHOR:            Camilo A Castelblanco
+#AUTHOR:            Camilo A Castelblanco & Lucas Weyrich
 #VERSION HISTORY:   05/17/2022  v1: First working version
 
 
